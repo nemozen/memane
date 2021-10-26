@@ -1,8 +1,16 @@
 Newly constructed, modern style apartments. 
 
-Each apartment features 2 bedrooms, 2 bathrooms, a spacious living room, dining room and a modern kitchen.   
+Each apartment features 2 bedrooms, 2 bathrooms, a spacious living room, dining room and a modern kitchen.    Parking is available for up to 2 cars per apartment. 
 
-Parking is available for up to 2 cars per apartment. Closed compound with 24x7 security guard and video monitoring.
+This private compound with 24x7 security guard and video monitoring is located in a quiet nieghborhood, conveniently located — 2km from Torhailoch Light Rail station, 2km from International Community School, 5km from African Union.
+
+For rental inquires, please email: memane@semret.org
+
+<div>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.771794561269!2d38.71442515272599!3d8.993134664590336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNTknNDQuMyJOIDM4wrA0Mic1Mi4zIkU!5e0!3m2!1sen!2sus!4v1635214761293!5m2!1sen!2sus" 
+        width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy">
+  </iframe>
+</div>
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
@@ -21,11 +29,3 @@ Parking is available for up to 2 cars per apartment. Closed compound with 24x7 s
   <object data="https://lh3.googleusercontent.com/eNp4ymLY--M5hAHE_P4Cbb7a9ZTnCISRcnrE4KDhl_kKO6o-FU6P0Vo-i2BxkFjU8Fbw2eep4Bq26c08onU22Hv9MjkjPoODJPedYZfXG4Vh-Uk0J95KEh5kWyv-BeFK9Yc8VjoSZks=w1920-h1080"></object>
 </div>
 
-Secluded, quiet neighborhood, conveniently located in the heart of the city (2km from Torhailoch Light Rail station, 2km from International Community School, 5km from African Union).
-<div>
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.771794561269!2d38.71442515272599!3d8.993134664590336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNTknNDQuMyJOIDM4wrA0Mic1Mi4zIkU!5e0!3m2!1sen!2sus!4v1635214761293!5m2!1sen!2sus" 
-        width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy">
-  </iframe>
-</div>
-
-For rental inquires, please email: memane@semret.org
