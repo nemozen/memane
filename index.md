@@ -1,8 +1,8 @@
 Newly constructed, modern style apartments, in a quiet neighborhood near the center of the city. 
 
-Each apartment features 2 bedrooms, 2 bathrooms, a spacious living room, dining room, a modern kitchen, and gorgeous natural light throughout.  
+Each apartment features 2 bedrooms, 2 bathrooms, spacious living and dining rooms, a modern kitchen, wood floors, and gorgeous natural light throughout.  
 
-This private compound has parking for up to 2 cars per apartment, as well as 24x7 security guard and video monitoring, and beautifully finished roof deck with 360° views.
+This private compound has parking for up to 2 cars per apartment, as well as 24x7 security with video monitoring, and a finished roof deck with 360° views.
 
 For rental inquires, please email: memane@semret.org
 
