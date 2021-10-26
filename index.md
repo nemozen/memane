@@ -4,12 +4,22 @@ Each apartment features 2 bedrooms, 2 bathrooms, a spacious living room, dining 
 
 Parking is available for up to 2 cars per apartment. Closed compound with 24x7 security guard and video monitoring.
 
-<img src=/images/IMG_20210905_090713551_2.jpg height=200 />  <img src=/images/IMG_20210901_071213951_2.jpg height=200 />  <img src=/images/floorplan.png height=200 />
-
-<img src=/images/IMG_20210905_091108467~5.jpg height="200" />  <img src=/images/IMG_20210905_091128666~4.jpg height="200"> <img src=/images/IMG_20210905_091812059~2.jpg height="200" /> 
-
-Finished roof deck with 360° panoramic views
-![Image](/images/IMG_20210905_092148585.jpg)
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.app.goo.gl/P3r1DCqmWuVt1BF27"
+  data-title="Memane"
+  data-description="10 new photos · Album by Nemo Semret">
+  <object data="https://lh3.googleusercontent.com/hRSqEQJ_JlYW8aY6S4tIS_9PHGqefTi7zbQJRzg2hSvgsDDgt02eYkeeezHvpWPOAQ_y8qXYO6fJ-x2y4n5pxS94dtNNr1DsaAU3SoHvxjn61VP9SZn5YX0Bf8jjxEhnCJ--erQYTlE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/v8Bo6X_glk0lk_6_-V7sk0pk1q9wZgbD8LFknTQAqJtiKwT58EMa19pNRxqDnIu0_n0ssnwwtDuVgJ_KZgMV6Xj6ONGDz4aZfFUYWRWFwepgykTrsK30xhRqjlZtEjh7U_UJauftSTk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/XvLt6v2L-281T7YZWnjKbOUzA8UfDzisKDGDJ96FVJJt6Hhh03uKMjZ_aKCaIKM2hMEcDtXWMQbgcZTH5_S-XU26etdoUWMi0LETNH_HJOxsMht_5N5RaQ_0yK3Aox3dzSl3bas0ypE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/hxY0xORkhUbuNYq5rRJP_g9A2bwNp4Dbuu5pFq3BYS8_xYQYKU75wAQr2L_cu2eWU22CHQ6-RKt85xhe6GQtNqFhlewSTdPRZ6cZIiGcOODBLU1sts9PMjQrrbJWuwmqu5NQlSbLC4E=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/_arbNHczbASBS-eZPv_gw9WfzKdrB75HiXjai_dvOzrAvC3dplioxBfFt2QrKV517TCwhNYMngf_qQqljKL7kAOkZQ1uWEOxE6qIBiJaVnyg76yjzcywwbakqRkDpOSTrCQ8UDMETMg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/S_pneQbh6aM_VP-2h_DE1z6SAhmeqZfG1ElOtz7WxkmrBnPVvK0pM9fgn5ZE55cQU6Mmuzd7xO6yo2jmQWqXPv5gRBH33nO-nHRzKXopA05y1G1dvDrfGS-x5iRloD2tjKpVn8os_jU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/nzcPianqC4Risw_embkCd3nTxHdHrWGAVNjnAQVlSoy7ml6ttQOytRYkvzXBT34EMbLHjBM4YbmGWUS9lqtZ-8VsvyjG5Sug8SZdOcr3G3_FqSrvuUGTu_xuBghjKSnDFHZz9S0GTQ4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/im7WcMgjn3QsP6_3cQW0a8bbzPKioxKit1Nr-uYUV_D0Ja9V37KzKx1LqOKg2sreKtc_8ckb2yztHY-zYEzdg11scQt3KPWpywk9Oz2tyO1_DPXKRj8xuxaQfHjs933Mbsl_UWJ107I=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/6rVSYSYYKEfode5py2Bfa0MqCnnRxlYxfyeeRByStlCBSLLnol-DB94hUCoHmvlPxFbzN0Pc4iMKoROo6V-uTWLyXZo7UI_h7t8yKDW1BYOKRXPlp7sHFQ2sn68ZGBx7e4JE_XKULYk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/eNp4ymLY--M5hAHE_P4Cbb7a9ZTnCISRcnrE4KDhl_kKO6o-FU6P0Vo-i2BxkFjU8Fbw2eep4Bq26c08onU22Hv9MjkjPoODJPedYZfXG4Vh-Uk0J95KEh5kWyv-BeFK9Yc8VjoSZks=w1920-h1080"></object>
+</div>
 
 Secluded, quiet neighborhood, conveniently located in the heart of the city (2km from Torhailoch Light Rail station, 2km from International Community School, 5km from African Union).
 <div>
