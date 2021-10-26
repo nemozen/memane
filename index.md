@@ -4,11 +4,9 @@ Each apartment features 2 bedrooms, 2 bathrooms, a spacious living room, dining 
 
 Parking is available for up to 2 cars per apartment. Closed compound with 24x7 security guard and video monitoring.
 
-<div>
-  <img src=/images/IMG_20210905_090713551_2.jpg  height="200" /> <img src=/images/IMG_20210901_071213951_2.jpg height="200" />   <img src=/images/floorplan.png height="200" />
-  
-  <img src=/images/IMG_20210905_091108467~5.jpg height="200" />  <img src=/images/IMG_20210905_091128666~4.jpg height="200"> <img src=/images/IMG_20210905_091812059~2.jpg height="200" /> 
-</div>
+<img src=/images/IMG_20210905_090713551_2.jpg height=200 />  <img src=/images/IMG_20210901_071213951_2.jpg height=200 />  <img src=/images/floorplan.png height=200 />
+
+<img src=/images/IMG_20210905_091108467~5.jpg height="200" />  <img src=/images/IMG_20210905_091128666~4.jpg height="200"> <img src=/images/IMG_20210905_091812059~2.jpg height="200" /> 
 
 Finished roof deck with 360° panoramic views
 ![Image](/images/IMG_20210905_092148585.jpg)
@@ -20,4 +18,4 @@ Secluded, quiet neighborhood, conveniently located in the heart of the city (2km
   </iframe>
 </div>
 
-Rental inquires, please email: memane@semret.org
+For rental inquires, please email: memane@semret.org
