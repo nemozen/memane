@@ -1,15 +1,15 @@
 Newly constructed, modern style apartments, in a quiet neighborhood near the center of the city.  
 
-Located 2km from Torhailoch Light Rail station, 2km from International Community School, 5km from African Union. 
 <div style="float: right;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.771794561269!2d38.71442515272599!3d8.993134664590336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNTknNDQuMyJOIDM4wrA0Mic1Mi4zIkU!5e0!3m2!1sen!2sus!4v1635214761293!5m2!1sen!2sus" 
         width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy">
   </iframe>
 </div>
+Located 2km from Torhailoch Light Rail station, 2km from International Community School, 5km from African Union. 
 
 Each apartment features 2 bedrooms, 2 bathrooms, spacious living and dining rooms, a modern kitchen, and gorgeous natural light throughout.  
 
-This private compound has parking for up to 2 cars per apartment, as well as 24x7 security with video monitoring, and a finished roof deck with 360° views.
+The building is in a private compound with parking for up to 2 cars per apartment, 24x7 security with video monitoring, and has a finished roof deck with 360° views.
 
 For rental inquires, please email: memane@semret.org
 
