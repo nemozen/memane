@@ -17,13 +17,13 @@ Each apartment features 2 bedrooms, 2 bathrooms, spacious living and dining room
 
 The building is in a private compound with parking for up to 2 cars per apartment, 24x7 security with video monitoring, and has a finished roof deck with 360° views.
 
-For rental inquires, please email: memane@semret.org
+If interested, please fill out the <a href="/form">rental inquiries form</a> or email memane@semret.org.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/P3r1DCqmWuVt1BF27"
   data-title="Memane"
-  data-description="10 new photos · Album by Nemo Semret">
+  data-description="10 new photos of Memane">
   <object data="https://lh3.googleusercontent.com/hxY0xORkhUbuNYq5rRJP_g9A2bwNp4Dbuu5pFq3BYS8_xYQYKU75wAQr2L_cu2eWU22CHQ6-RKt85xhe6GQtNqFhlewSTdPRZ6cZIiGcOODBLU1sts9PMjQrrbJWuwmqu5NQlSbLC4E=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/hRSqEQJ_JlYW8aY6S4tIS_9PHGqefTi7zbQJRzg2hSvgsDDgt02eYkeeezHvpWPOAQ_y8qXYO6fJ-x2y4n5pxS94dtNNr1DsaAU3SoHvxjn61VP9SZn5YX0Bf8jjxEhnCJ--erQYTlE=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/v8Bo6X_glk0lk_6_-V7sk0pk1q9wZgbD8LFknTQAqJtiKwT58EMa19pNRxqDnIu0_n0ssnwwtDuVgJ_KZgMV6Xj6ONGDz4aZfFUYWRWFwepgykTrsK30xhRqjlZtEjh7U_UJauftSTk=w1920-h1080"></object>
