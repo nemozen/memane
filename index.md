@@ -5,7 +5,13 @@ Newly constructed, modern style apartments, in a quiet neighborhood near the cen
         width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy">
   </iframe>
 </div>
-Located 2km from Torhailoch Light Rail station, 2km from International Community School, 5km from African Union. 
+
+* 400m from Embassy of UAE
+* 1km from Embassy of Switzerland
+* 1km from Embassy of Republic of Korea
+* 2km from Torhailoch Light Rail station
+* 2km from International Community School
+* 5km from African Union. 
 
 Each apartment features 2 bedrooms, 2 bathrooms, spacious living and dining rooms, a modern kitchen, and gorgeous natural light throughout.  
 
