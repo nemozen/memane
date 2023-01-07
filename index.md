@@ -1,4 +1,4 @@
-Newly constructed, modern style apartments, in a quiet neighborhood near the center of the city.  
+Newly constructed apartments in a quiet residential neighborhood near the center of the city.  
 
 <div style="float: right;">
   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.771794561269!2d38.71442515272599!3d8.993134664590336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNTknNDQuMyJOIDM4wrA0Mic1Mi4zIkU!5e0!3m2!1sen!2sus!4v1635214761293!5m2!1sen!2sus" 
@@ -7,15 +7,18 @@ Newly constructed, modern style apartments, in a quiet neighborhood near the cen
 </div>
 
 * 400m from Embassy of UAE
+* 800m from Addis Ababa Golf Club
 * 1km from Embassy of Switzerland
 * 1km from Embassy of Republic of Korea
 * 2km from Torhailoch Light Rail station
 * 2km from International Community School
 * 5km from African Union. 
 
-Each apartment features 2 bedrooms, 2 bathrooms, spacious living and dining rooms, a modern kitchen, and gorgeous natural light throughout.  
+Each apartment features **2 bedrooms, 2 bathrooms**, spacious living and dining rooms, a modern kitchen, and gorgeous natural light throughout. 
 
-The building is in a private compound with parking for up to 2 cars per apartment, 24x7 security with video monitoring, and has a finished roof deck with 360° views.
+The building is in a private compound with **parking for up to 2 cars per apartment**, 24x7 security with video monitoring, and has a finished roof deck with 360° views. 
+
+Apartments are pre-wired with in-wall television cables (coax) connected to a rooftop satellite dish.
 
 If interested, please fill out the <a href="/form">rental inquiries form</a> or email memane@semret.org.
 
