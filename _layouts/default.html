@@ -40,7 +40,7 @@
 }
 
 .topnav a {
-  color: white;
+  color: black;
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
@@ -56,13 +56,13 @@
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: #ebeded;
   color: black;
 }
 
 .active {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #ebeded;
+  color: black;
 }
 </style>
 
@@ -75,7 +75,10 @@
         <header>
 <!-- Top Navigation Menu -->
 <div class="topnav">
-  <a href="/" class="active">{{ page.title | default: site.title | default: site.github.repository_name }}</a>
+  <a href="/" class="active">
+	  {{ page.title | default: site.title | default: site.github.repository_name }}
+	  {{ page.description | default: site.description | default: site.github.project_tagline }}
+	</a>
   <div id="myLinks">
     <a href="/terms">Rental Terms</a>
     <a href="/form">Application Form</a>
