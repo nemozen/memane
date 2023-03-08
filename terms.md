@@ -1,6 +1,4 @@
-Rental terms
-
-For a 1 year lease:
+Rental terms for a 1 year lease:
 
   * US$1,000 or 55,000 Birr/month, for an apartment equipped with kitchen appliances (fridge and stove+oven). 
   * US$925 or 50,000 Birr/month without kitchen applicances.
