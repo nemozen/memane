@@ -31,7 +31,7 @@
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: #ebeded;
   position: relative;
 }
 
@@ -48,7 +48,7 @@
 }
 
 .topnav a.icon {
-  background: black;
+  background-color: #ebeded;
   display: block;
   position: absolute;
   right: 0;
@@ -77,8 +77,9 @@
 <div class="topnav">
   <a href="/" class="active">
 	  {{ page.title | default: site.title | default: site.github.repository_name }}
+</a>	  
+	<br>
 	  {{ page.description | default: site.description | default: site.github.project_tagline }}
-	</a>
   <div id="myLinks">
     <a href="/terms">Rental Terms</a>
     <a href="/form">Application Form</a>
