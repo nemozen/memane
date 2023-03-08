@@ -25,6 +25,47 @@
   gtag('config', 'AW-10829733930'); 
 </script>
 
+<!-- navigation menu -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+  position: relative;
+}
+
+.topnav #myLinks {
+  display: none;
+}
+
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  display: block;
+}
+
+.topnav a.icon {
+  background: black;
+  display: block;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.active {
+  background-color: #04AA6D;
+  color: white;
+}
+</style>
+
 </head>
 
   <body>
@@ -32,9 +73,18 @@
       <div class="inner">
 
         <header>
-          <h1><a href="/">{{ page.title | default: site.title | default: site.github.repository_name }}</a></h1>
-          <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-        </header>
+<!-- Top Navigation Menu -->
+<div class="topnav">
+  <a href="/" class="active">{{ page.title | default: site.title | default: site.github.repository_name }}</a>
+  <div id="myLinks">
+    <a href="/terms">Rental Terms</a>
+    <a href="/form">Application Form</a>
+  </div>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+</header>
         <section id="downloads" class="clearfix">
           {% if site.show_downloads %}
           <a href="{{ site.github.zip_url }}" id="download-zip" class="button"><span>Download .zip</span></a>
@@ -54,5 +104,17 @@
 
       </div>
     </div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+</script>
+
   </body>
 </html>
