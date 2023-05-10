@@ -19,12 +19,12 @@ Newly constructed apartments in a quiet residential neighborhood near the center
 </div>
 
 <div>
-  Each apartment features <b>2 bedrooms, 2 bathrooms</b>, spacious living room with balcony, dining room, a modern kitchen, and gorgeous natural light throughout. 
+  Each apartment features <b>2 bedrooms, 2 bathrooms</b>, spacious living room with balcony, dining room, a modern kitchen, and gorgeous natural light throughout. Apartments are pre-wired with in-wall television cables (coax) connected to a rooftop satellite dish.
 
+  <p>
   The building is in a private compound with <b>parking for up to 2 cars per apartment</b>, 24x7 security with video monitoring, and has a finished roof deck with 360° views.
 
-Apartments are pre-wired with in-wall television cables (coax) connected to a rooftop satellite dish.
-
+<p>
 If interested, please fill out the <a href="/form">application form</a> or email memane@semret.org.
 </div>
 <p>
