@@ -6,13 +6,15 @@ Newly constructed apartments in a quiet residential neighborhood near the center
   </iframe>
 </div>
 <div style="padding: 10px"> 
-  * 400m from Embassy of UAE
-  * 800m from Addis Ababa Golf Club
-  * 1km from Embassies of Switzerland and Republic of Korea
-  * 1km from Bisrate Gabriel/Laphto Mall
-  * 2km from Torhailoch Light Rail station
-  * 2km from International Community School
-  * 5km from African Union. 
+  <ul>
+  <li> 400m from Embassy of UAE
+  <li> 800m from Addis Ababa Golf Club
+  <li> 1km from Embassies of Switzerland and Republic of Korea
+  <li> 1km from Bisrate Gabriel/Laphto Mall
+  <li> 2km from Torhailoch Light Rail station
+  <li> 2km from International Community School
+  <li> 5km from African Union
+  </ul>
 </div>
 Each apartment features **2 bedrooms, 2 bathrooms**, spacious living room with balcony, dining room, a modern kitchen, and gorgeous natural light throughout. 
 
