@@ -5,6 +5,7 @@ Newly constructed apartments in a quiet residential neighborhood near the center
         width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy">
   </iframe>
 </div>
+
 <div style="padding: 10px"> 
   <ul>
   <li> 400m from Embassy of UAE
@@ -16,6 +17,7 @@ Newly constructed apartments in a quiet residential neighborhood near the center
   <li> 5km from African Union
   </ul>
 </div>
+
 Each apartment features **2 bedrooms, 2 bathrooms**, spacious living room with balcony, dining room, a modern kitchen, and gorgeous natural light throughout. 
 
 The building is in a private compound with **parking for up to 2 cars per apartment**, 24x7 security with video monitoring, and has a finished roof deck with 360° views. 
