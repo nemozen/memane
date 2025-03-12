@@ -1,7 +1,7 @@
 Rental terms for a 1 year lease:
 
-  * 65,000 Birr/month, for an apartment equipped with kitchen appliances (fridge and stove+oven). 
-  * 60,000 Birr/month without kitchen applicances.
+  * 70,000 Birr/month, for an apartment equipped with kitchen appliances (fridge and stove+oven). 
+  * 65,000 Birr/month without kitchen applicances.
   * Electricity is metered separately for each apartment and charged by landlord at cost, payable monthly.
   * Water, security, parking and all other expenses are included.
   * First 3 months rent due upon lease signing. Thereafter rent is due monthly.
