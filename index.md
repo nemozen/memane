@@ -6,7 +6,7 @@ Newly constructed apartments in a quiet residential neighborhood near the center
   </iframe>
 </div>
 
-<div style="padding: 10px">
+<div style="padding: 20px">
   <ul>
 	<li> 400m from Embassy of UAE</li>
 	<li> 800m from Addis Ababa Golf Club</li>
@@ -31,7 +31,7 @@ Newly constructed apartments in a quiet residential neighborhood near the center
 <p>
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;" background-color: transparent !important;"
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none; background-color: transparent !important;"
   data-link="https://photos.app.goo.gl/P3r1DCqmWuVt1BF27"
   data-title="Memane"
   data-description="10 new photos of Memane">
