@@ -6,7 +6,7 @@ Newly constructed apartments in a quiet residential neighborhood near the center
   </iframe>
 </div>
 
-<div style="padding: 10px">
+<div style="padding: 20px">
   <ul>
 	<li> 400m from Embassy of UAE</li>
 	<li> 800m from Addis Ababa Golf Club</li>
