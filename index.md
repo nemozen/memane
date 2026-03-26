@@ -1,20 +1,20 @@
-Newly constructed apartments in a quiet residential neighborhood near the center of the city.  
+Newly constructed apartments in a quiet residential neighborhood near the center of the city.
 
 <div style="float: right;">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.771794561269!2d38.71442515272599!3d8.993134664590336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNTknNDQuMyJOIDM4wrA0Mic1Mi4zIkU!5e0!3m2!1sen!2sus!4v1635214761293!5m2!1sen!2sus" 
-        width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy">
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.771794561269!2d38.71442515272599!3d8.993134664590336!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNTknNDQuMyJOIDM4wrA0Mic1Mi4zIkU!5e0!3m2!1sen!2sus!4v1635214761293!5m2!1sen!2sus"
+		width="300" height="225" style="border:0;" allowfullscreen="" loading="lazy">
   </iframe>
 </div>
 
-<div style="padding: 10px"> 
+<div style="padding: 10px">
   <ul>
-    <li> 400m from Embassy of UAE</li>
-    <li> 800m from Addis Ababa Golf Club</li>
-    <li> 1km from Embassies of Switzerland and Republic of Korea</li>
-    <li> 1km from Bisrate Gabriel/Laphto Mall</li>
-    <li> 2km from Torhailoch Light Rail station</li>
-    <li> 2km from International Community School</li>
-    <li> 5km from African Union</li>  
+	<li> 400m from Embassy of UAE</li>
+	<li> 800m from Addis Ababa Golf Club</li>
+	<li> 1km from Embassies of Switzerland and Republic of Korea</li>
+	<li> 1km from Bisrate Gabriel/Laphto Mall</li>
+	<li> 2km from Torhailoch Light Rail station</li>
+	<li> 2km from International Community School</li>
+	<li> 5km from African Union</li>
   </ul>
 </div>
 
@@ -31,7 +31,7 @@ Newly constructed apartments in a quiet residential neighborhood near the center
 <p>
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
-<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;" background-color: transparent !important;"
   data-link="https://photos.app.goo.gl/P3r1DCqmWuVt1BF27"
   data-title="Memane"
   data-description="10 new photos of Memane">
